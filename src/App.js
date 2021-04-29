@@ -21,7 +21,7 @@ class App extends React.Component {
           <form>  
               <h1>Multiple Input Controlled Form Example</h1>  
               <label>  
-                  Is Person going:  
+                  Is Person going to:  
                   <input  
                     name="personGoing"  
                     type="checkbox"  
